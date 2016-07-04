@@ -128,7 +128,7 @@ void setup()
   delay(2000);
   servo_start();
   Serial.println("Let's play with the arm P1!");
-    delay(30000);
+    delay(3000);
 }
 
 bool state = true;
