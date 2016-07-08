@@ -86,13 +86,13 @@ int elbow_servopulse_prev = 0;
 int wrist_servopulse_prev = 0;
 
 //Длительности импульсов для Начального положения
-int base_servopulse_down = 1500;//1600
+int base_servopulse_down = 1600;//1500
 int shld_servopulse_down = 2200;
 int elbow_servopulse_down = 2200;
 int wrist_servopulse_down = 1500;//1550
 
 //Длительности импульсов для Стартового положения
-int base_servopulse_90 = 1500;//1600
+int base_servopulse_90 = 1600;//1500
 int shld_servopulse_90 = 1500;
 int elbow_servopulse_90 = 1500;
 int wrist_servopulse_90 = 1500;//1550
